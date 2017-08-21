@@ -1,4 +1,4 @@
 {
-"link_image":"",
-"link_app":""
+"link_image":"https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/flip.jpg",
+"app_id":"com.sd.google.helloKittyFoodTown"
 }
